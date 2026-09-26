@@ -13,7 +13,7 @@ Una página web moderna y adaptable para una cafetería de especialidad ficticia
 
 ---
 
-## ✨ Características
+## ✨ Características (optativo)
 
 - 📱 **Diseño 100% Responsive:** Adaptado para teléfonos, tablets y computadoras de escritorio mediante el sistema de grillas de Bootstrap.
 - 🧭 **Barra de navegación interactiva:** Navbar colapsable con enlaces a secciones de la página.
@@ -23,7 +23,7 @@ Una página web moderna y adaptable para una cafetería de especialidad ficticia
 
 ---
 
-## 📂 Estructura de carpetas
+## 📂 Estructura de carpetas (optativo)
 
 ```text
 ├── css/
@@ -46,11 +46,14 @@ Una página web moderna y adaptable para una cafetería de especialidad ficticia
 2. Entra en la carpeta del proyecto:
 
     ```
-    cd nombre-del-repo
+    cd ejemplo-readme
     ```
 
 1. Abre el archivo index.html en tu navegador web de preferencia (o usa la extensión Live Server en Visual Studio Code).
 
 ## 👤 Autores
 
+- Nombre del Alumno - GitHub
+- Nombre del Alumno - GitHub
+- Nombre del Alumno - GitHub
 - Nombre del Alumno - GitHub
