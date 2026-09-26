@@ -40,7 +40,7 @@ Una página web moderna y adaptable para una cafetería de especialidad ficticia
 1. Clona este repositorio o descarga el archivo ZIP:
 
    ```
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone https://github.com/rollingcodeschool/ejemplo-readme
    ```
 
 2. Entra en la carpeta del proyecto:
